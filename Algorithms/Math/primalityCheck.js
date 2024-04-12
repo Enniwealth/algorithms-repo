@@ -29,9 +29,6 @@ console.log(getMin([2, 1, 6, 0, 5]))
 
 
 
-
-
-
 //Algorithm 2
 
 const IsEven = (num) => {

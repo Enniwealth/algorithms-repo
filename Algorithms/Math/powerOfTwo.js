@@ -14,6 +14,8 @@ const isPowerOfTwo = (number) => {
 }
 
 
+// Using Bitwise Operators
+
 
 
 console.log(isPowerOfTwo(2))
