@@ -16,7 +16,7 @@ const binarySearch = (sortedArray, element) => {
         }
 
 };
-
+ 
 }
 const arr = [1, 2, 3, 4, 77, 89]
 console.log(binarySearch(arr, 4));
